@@ -27,11 +27,11 @@
 
 ## Video Explanation of the Project :
 
-<video width="500" height="250" controls>
-  <source src="./images/Explanation.mp4" type="video/mp4">
-  <source src="movie.ogg" type="video/ogg">
-Your browser does not support the video tag.
-</video>
+
+https://user-images.githubusercontent.com/67190631/171101453-49f84f3c-fdae-4f44-8dd9-4baaadf8781d.mp4
+
+
+
 
 # How to Run  :
 * Install the Go language on Pc
