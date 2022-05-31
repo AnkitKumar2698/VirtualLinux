@@ -14,20 +14,24 @@
     * Contains images used in the Desktop Application
 # View of Virtual Linux :
 *   Linux View :
-    * <img src="../images/view1.jpg">
+    * <img src="./images/view1.jpg">
 
 *   Notepad View :
-    * <img src="../images/notepadview.jpg">
+    * <img src="./images/notepadview.jpg">
 *   Weather App :
-    * <img src="../images/weatherView.jpg">
+    * <img src="./images/weatherView.jpg">
 *   Music Player :
-    * <img src="../images/musicView.jpg">
+    * <img src="./images/musicView.jpg">
 *   Calculater App :
-    * <img src="../images/calculator.jpg">
+    * <img src="./images/calculator.jpg">
 
 ## Video Explanation of the Project :
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6860091484440444928?compact=1" height="284" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
+<video width="500" height="250" controls>
+  <source src="images/Explanation.mp4" type="video/mp4">
+  <source src="movie.ogg" type="video/ogg">
+Your browser does not support the video tag.
+</video>
 
 # How to Run  :
 * Install the Go language on Pc
